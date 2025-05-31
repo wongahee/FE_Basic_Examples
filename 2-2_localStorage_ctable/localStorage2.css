@@ -1,0 +1,24 @@
+button {
+    width: 260px;
+    background-color: #00eeff;
+    border: none;
+    color: #000;
+    cursor: pointer;
+    padding: 15px;
+    float: right;
+    margin-bottom: 20px;
+}
+
+button:hover {
+    background-color: #00bbff;
+    transition: all 0.3s;
+    cursor: pointer;
+}
+
+.btn{
+    background-color: #000;
+    color: #fff;
+    width: 150px;
+    margin: 0;
+    float: none;
+}
