@@ -5,7 +5,7 @@
 <br><br>
 
 ## 📋 프로젝트 개요
-웹 브라우저의 **데이터 저장, 동적 UI, 사용자 인터랙션** 등 프론트엔드 핵심 기능들을 직접 구현하며 학습한 실습 프로젝트입니다.
+웹 브라우저의 **데이터 저장, 동적 UI, 사용자 인터랙션** 등 프론트엔드 핵심 기능들을 학습하며 직접 구현한 프로젝트입니다.
 
 <br>
 
@@ -18,23 +18,26 @@ UI Framework: Bootstrap 4.6.0
 <br>
 
 ## 🎯 구현 프로젝트 목록
-| No | Project | Preview | Description | Interface Preview |
-|------|----------|-----------|------|----------|
-| 1 | 🎵 Accordion FAQ Menu | [🔗 보기](./1_faqPage_accordion/accodion.html) | 📱 Practice on Accordion UI |
-| 2 | 💾 LocalStorage Basic Operations | [🔗 보기](./2_localStorage/main.html) | 📒 Practice on Local Storage |
-| 3 | 📊 LocalStorage Data Visualization | [🔗 보기](./2-2_localStorage_ctable/localStorage2.html) | 📒 Practice on Local Storage |
-| 4 | 🔧 Dynamic Table Generation | [🔗 보기](./2-3_localStorage_createRowColumn/localStorage3.html) | 📒 Practice on Local Storage |
-| 5 | 🍪 Cookie Management System | [🔗 보기](./3-1_cookieControl/cookie.html) | 📒 Practice on Local Storage |
-| 6 | 🍪 Advanced Cookie System | [🔗 보기](./3-2_cookieControl_allDel/cookie2.html) | 📒 Practice on Local Storage | ![image](https://github.com/user-attachments/assets/f42a7298-0f57-4b37-b3d5-66786e391b25) |
+| No | Project | Path | Description |
+|------|--------------------|-----------|------|
+| 1 | 🎵 Accordion FAQ Menu | [🔗 보기](./1_faqPage_accordion/accodion.html) | Practice on Accordion UI |
+| 2 | 💾 LocalStorage Basic Operations | [🔗 보기](./2_localStorage/main.html) | Practice on Local Storage |
+| 3 | 📊 LocalStorage Data Visualization | [🔗 보기](./2-2_localStorage_ctable/localStorage2.html) | Practice on  |
+| 4 | 🔧 Dynamic Table Generation | [🔗 보기](./2-3_localStorage_createRowColumn/localStorage3.html) | Practice on Create column Local Storage |
+| 5 | 🍪 Cookie Management System | [🔗 보기](./3-1_cookieControl/cookie.html) | Practice on Cookie Management |
+| 6 | 🍪 Advanced Cookie System | [🔗 보기](./3-2_cookieControl_allDel/cookie2.html) | Practice on Advanced Cookie Management |
+
+<br>
 
 ### 1. 🎵 Accordion FAQ Menu
 
 UI 인터랙션 기능
 
 ✅ 클릭으로 FAQ 내용 토글
-✅ 부드러운 CSS 애니메이션 (transition: all 0.75s)
-✅ 전체 닫기 버튼 기능
+✅ 부드러운 CSS 애니메이션
+✅ 전체 아코디언 바 닫기 버튼 생성
 ✅ NodeList 객체와 반복문 활용
+
 
 ### 2. 💾 LocalStorage Basic Operations
 
