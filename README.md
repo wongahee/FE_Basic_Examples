@@ -41,13 +41,17 @@
 - NodeList 객체와 반복문 활용
 
 <br>
+<caption>Main FAQ page</caption>
 
 ![1_1](./images/1_1.JPG)
 
 <br>
 
-![1_2](./images/1_2.JPG)
+<caption>아코디언 바 닫기</caption>
 
+![1_2](./images/1_2.JPG)
+- FAQ Title 클릭 시 아코디언 바 아래로 열림
+- Close Button을 통한 아코디언 바 닫기
 <br>
 
 ### 2. 💾 LocalStorage Basic Operations
@@ -58,13 +62,17 @@
 - 실시간 입력값 처리
 
 <br>
+<caption>Main LocalStorage Management page</caption>
 
 ![2_1](./images/2_1.JPG)
 
 <br>
+<caption>로컬스토리지 저장</caption>
 
 ![2_2](./images/2_2.png)
-
+- input box에 로컬스토리지 값 입력 후 Set Data 버튼 클릭 (저장하기)
+- Get Data 버튼 클릭 시 input box에 값 출력 (가져오기)
+- Remove 버튼 클릭 시 로컬스토리지 삭제됨 (삭제하기)
 
 <br>
 
@@ -77,12 +85,16 @@
 - 배열 데이터 처리 및 반복문 활용
 
 <br>
+<caption>Main LocalStorage View page</caption>
 
 ![3_1](./images/3_1.JPG)
 
 <br>
+<caption>로컬스토리지 데이터 확인</caption>
 
 ![3_2](./images/3_2.png)
+
+- localStorage Data All View 버튼 클릭 시 저장된 로컬스토리지 쌍 출력
 
 <br>
 
@@ -95,16 +107,18 @@
 - 텍스트 노드 생성 및 삽입
 
 <br>
+<caption>Main localStorage page</caption>
 
 ![4_1](./images/4_1.JPG)
 
 <br>
+<caption>행과 열 칸에 데이터 넣기</caption>
 
 ![4_3](./images/4_3.png)
 
+- 저장한 데이터 값 출력
 <br>
-
-+) 행열 번호 출력
+<caption>+) 행열 번호 출력</caption>
 
 ![4_2](./images/4_2.png)
 
@@ -120,24 +134,40 @@
 * UTC 시간 형식 활용
 
 <br>
+<caption>Main Cookie Control page</caption>
 
 ![5_1](./images/5_1.JPG)
 
 <br>
+<caption>쿠키 확인</caption>
 
 ![5_2](./images/5_2.png)
 
+- 첫 방문하여 쿠키 값이 없을 때 알림
+- 쿠키 값이 비어있음을 확인
+  
 <br>
+<caption>쿠키 생성</caption>
 
 ![5_3](./images/5_3.png)
 
+- Set Cookie 버튼 클릭하여 프로그래밍한 쿠키 데이터 입력
+- 쿠키 값 생성 확인
+
 <br>
+<caption>쿠키 생성 후 재확인</caption>
 
 ![5_4](./images/5_4.png)
 
+- 생성된 쿠키 값 확인 알림
+
 <br>
+<caption>쿠키 삭제</caption>
 
 ![5_5](./images/5_5.png)
+
+- Del Cookie 버튼 클릭하여 쿠키 삭제
+- 쿠키 값 삭제 확인
 
 <br>
 
@@ -151,24 +181,37 @@
 - Form 데이터 검증 및 초기화
 
 <br>
+<caption>Main Cookie page</caption>
 
 ![6_1](./images/6_1.JPG)
 
 <br>
+<caption>쿠키 확인</caption>
 
 ![6_2](./images/6_2.png)
 
+- 쿠키 값이 비어있음을 확인
+
 <br>
+<caption>쿠키 생성</caption>
 
 ![6_3](./images/6_3.png)
 
+- 원하는 쿠키 이름/값/만료일 작성 후 쿠키 생성
+
 <br>
+<caption>쿠키 재확인</caption>
 
 ![6_4](./images/6_4.png)
 
+- 쿠키 생성 후 재확인
+
 <br>
+<caption>쿠키 전체 삭제</caption>
 
 ![6_5](./images/6_5.JPG)
+
+- 저장된 모든 쿠키 삭제
 
 <br>
 
