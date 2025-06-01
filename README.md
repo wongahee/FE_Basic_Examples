@@ -84,7 +84,6 @@
 
 ![3_2)](https://github.com/user-attachments/assets/93b9687a-9a0d-4da7-b753-fa13fb1f061b)
 
-
 <br>
 
 ### 4. 🔧 Dynamic Table Generation
@@ -92,9 +91,22 @@
 ✅ 주요 기능
 
 - 실시간 행/열 추가
-- DOM 조작을 통한 테이블 생성
 - insertRow(), insertCell() 메서드 활용
 - 텍스트 노드 생성 및 삽입
+
+<br>
+
+![4_1)](https://github.com/user-attachments/assets/a8571edf-fe46-43cc-96d4-60fa5e617e0a)
+
+<br>
+
+![4_3)](https://github.com/user-attachments/assets/7cddff16-460c-41a7-9306-bef9abbbc05a)
+
+<br>
+
++) 행열 번호 출력
+
+![4_2)](https://github.com/user-attachments/assets/8b320109-7d92-4432-91cd-3ef013565f2f)
 
 <br>
 
@@ -106,6 +118,23 @@
 * 7일 만료 기간 자동 설정
 * 첫 방문자/재방문자 구분 메시지
 * UTC 시간 형식 활용
+
+<br>
+
+![5_1)](https://github.com/user-attachments/assets/5a33dcef-deba-4e19-be17-17349f02fa2c)
+
+<br>
+
+![5_2)](https://github.com/user-attachments/assets/a98d6991-4d73-4b35-aab9-a1ecd83121d0)
+
+<br>
+
+![5_3)](https://github.com/user-attachments/assets/6313bc78-06d1-4cbf-925c-a5f4ee969e38)
+![5_4)](https://github.com/user-attachments/assets/652ce1b4-bf9c-4d35-90dd-f72ac17e8998)
+
+<br>
+
+![5_5)](https://github.com/user-attachments/assets/09da9376-b4ee-479f-9953-2c5cd38ee528)
 
 <br>
 
