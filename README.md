@@ -22,12 +22,12 @@
 ## 🎯 프로젝트 목록
 | No | Project | Path | Description |
 |------|--------------------|-----------|------|
-| 1 | 🎵 Accordion FAQ Menu | [🔗 보기](./1_faqPage_accordion) | Practice on Accordion UI |
-| 2 | 💾 LocalStorage Basic Operations | [🔗 보기](./2_localStorage) | Practice on Local Storage : Save, Load, Delete |
-| 3 | 📊 LocalStorage Data Visualization | [🔗 보기](./2-2_localStorage_ctable) | Practice on LocalStorage Table Viewer |
-| 4 | 🔧 Dynamic Table Generation | [🔗 보기](./2-3_localStorage_createRowColumn) | Practice on Create column Local Storage |
-| 5 | 🍪 Cookie Management System | [🔗 보기](./3-1_cookieControl) | Practice on Cookie Management |
-| 6 | 🍪 Advanced Cookie System | [🔗 보기](./3-2_cookieControl_allDel) | Practice on Advanced Cookie Management |
+| 1 | 🎵 Accordion FAQ Menu | [🔗 보기](./1-accordion-FAQ-menu) | Practice on Accordion UI |
+| 2 | 💾 LocalStorage Basic Operations | [🔗 보기](./2-localStorage-basic-operations) | Practice on Local Storage : Save, Load, Delete |
+| 3 | 📊 LocalStorage Data Visualization | [🔗 보기](./3-localStorage-viewer) | Practice on LocalStorage Table Viewer |
+| 4 | 🔧 Dynamic Table Generation | [🔗 보기](./4-localStorage-addRowColumn) | Practice on Create Row and column Local Storage |
+| 5 | 🍪 Cookie Management System | [🔗 보기](./5-cookieControl) | Practice on Cookie Management |
+| 6 | 🍪 Advanced Cookie System | [🔗 보기](./6-cookieControl-delete-all) | Practice on Advanced Cookie Management |
 
 <br>
 
@@ -42,7 +42,7 @@
 
 <br>
 
-![1_1)](https://github.com/user-attachments/assets/1a7c3743-ed52-46da-a271-215d35254337) 
+![](./images/1_1).jpg)
 
 <br>
 
