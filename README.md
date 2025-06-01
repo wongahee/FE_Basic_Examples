@@ -130,6 +130,9 @@
 <br>
 
 ![5_3)](https://github.com/user-attachments/assets/6313bc78-06d1-4cbf-925c-a5f4ee969e38)
+
+<br>
+
 ![5_4)](https://github.com/user-attachments/assets/652ce1b4-bf9c-4d35-90dd-f72ac17e8998)
 
 <br>
@@ -146,6 +149,26 @@
 - 개별 쿠키 삭제
 - 전체 쿠키 일괄 삭제 기능
 - Form 데이터 검증 및 초기화
+
+<br>
+
+![6](https://github.com/user-attachments/assets/b9196b88-0ba8-4d34-bfed-204c634de781)
+
+<br>
+
+![6_1)](https://github.com/user-attachments/assets/f8c774c9-b6df-45b6-a9f4-97c429d7597f)
+
+<br>
+
+![6_2)](https://github.com/user-attachments/assets/c3fbe968-e6cc-4b8f-8f1a-55e2755e3092)
+
+<br>
+
+![6_3)](https://github.com/user-attachments/assets/4dda5cbb-a892-4145-ba90-183257f82376)
+
+<br>
+
+![6_4)](https://github.com/user-attachments/assets/e35b4301-2ff7-4568-82f5-4cd9d4daaaf4)
 
 <br>
 
