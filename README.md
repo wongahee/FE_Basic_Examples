@@ -20,12 +20,12 @@ UI Framework: Bootstrap 4.6.0
 ## 🎯 구현 프로젝트 목록
 | No | Project | Path | Description |
 |------|--------------------|-----------|------|
-| 1 | 🎵 Accordion FAQ Menu | [🔗 보기](./1_faqPage_accordion/accodion.html) | Practice on Accordion UI |
-| 2 | 💾 LocalStorage Basic Operations | [🔗 보기](./2_localStorage/main.html) | Practice on Local Storage |
-| 3 | 📊 LocalStorage Data Visualization | [🔗 보기](./2-2_localStorage_ctable/localStorage2.html) | Practice on  |
-| 4 | 🔧 Dynamic Table Generation | [🔗 보기](./2-3_localStorage_createRowColumn/localStorage3.html) | Practice on Create column Local Storage |
-| 5 | 🍪 Cookie Management System | [🔗 보기](./3-1_cookieControl/cookie.html) | Practice on Cookie Management |
-| 6 | 🍪 Advanced Cookie System | [🔗 보기](./3-2_cookieControl_allDel/cookie2.html) | Practice on Advanced Cookie Management |
+| 1 | 🎵 Accordion FAQ Menu | [🔗 보기](./1_faqPage_accordion) | Practice on Accordion UI |
+| 2 | 💾 LocalStorage Basic Operations | [🔗 보기](./2_localStorage) | Practice on Local Storage |
+| 3 | 📊 LocalStorage Data Visualization | [🔗 보기](./2-2_localStorage_ctable) | Practice on  |
+| 4 | 🔧 Dynamic Table Generation | [🔗 보기](./2-3_localStorage_createRowColumn) | Practice on Create column Local Storage |
+| 5 | 🍪 Cookie Management System | [🔗 보기](./3-1_cookieControl) | Practice on Cookie Management |
+| 6 | 🍪 Advanced Cookie System | [🔗 보기](./3-2_cookieControl_allDel) | Practice on Advanced Cookie Management |
 
 <br>
 
