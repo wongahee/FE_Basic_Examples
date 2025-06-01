@@ -42,11 +42,11 @@
 
 <br>
 
-![](./images/1_1).jpg)
+![1_1](./images/1_1.JPG)
 
 <br>
 
-![1_2)](https://github.com/user-attachments/assets/0814de76-8b69-453f-9144-49fd6af68705)
+![1_2](./images/1_2.JPG)
 
 <br>
 
@@ -59,11 +59,11 @@
 
 <br>
 
-![2_1)](https://github.com/user-attachments/assets/49979f26-ad0f-41aa-a713-ba30c4161598)
+![2_1](./images/2_1.JPG)
 
 <br>
 
-![2_3)](https://github.com/user-attachments/assets/0416e26f-f88b-427b-9a6b-2536bad674a2)
+![2_2](./images/2_2.png)
 
 
 <br>
@@ -78,11 +78,11 @@
 
 <br>
 
-![3_1)](https://github.com/user-attachments/assets/3cb870e9-ca4e-490c-93d8-dad197e17405)
+![3_1](./images/3_1.JPG)
 
 <br>
 
-![3_2)](https://github.com/user-attachments/assets/93b9687a-9a0d-4da7-b753-fa13fb1f061b)
+![3_2](./images/3_2.png)
 
 <br>
 
@@ -96,17 +96,17 @@
 
 <br>
 
-![4_1)](https://github.com/user-attachments/assets/a8571edf-fe46-43cc-96d4-60fa5e617e0a)
+![4_1](./images/4_1.JPG)
 
 <br>
 
-![4_3)](https://github.com/user-attachments/assets/7cddff16-460c-41a7-9306-bef9abbbc05a)
+![4_3](./images/4_3.png)
 
 <br>
 
 +) 행열 번호 출력
 
-![4_2)](https://github.com/user-attachments/assets/8b320109-7d92-4432-91cd-3ef013565f2f)
+![4_2](./images/4_2.png)
 
 <br>
 
@@ -121,23 +121,23 @@
 
 <br>
 
-![5_1)](https://github.com/user-attachments/assets/5a33dcef-deba-4e19-be17-17349f02fa2c)
+![5_1](./images/5_1.JPG)
 
 <br>
 
-![5_2)](https://github.com/user-attachments/assets/a98d6991-4d73-4b35-aab9-a1ecd83121d0)
+![5_2](./images/5_2.png)
 
 <br>
 
-![5_3)](https://github.com/user-attachments/assets/6313bc78-06d1-4cbf-925c-a5f4ee969e38)
+![5_3](./images/5_3.png)
 
 <br>
 
-![5_4)](https://github.com/user-attachments/assets/652ce1b4-bf9c-4d35-90dd-f72ac17e8998)
+![5_4](./images/5_4.png)
 
 <br>
 
-![5_5)](https://github.com/user-attachments/assets/09da9376-b4ee-479f-9953-2c5cd38ee528)
+![5_5](./images/5_5.png)
 
 <br>
 
@@ -152,23 +152,23 @@
 
 <br>
 
-![6](https://github.com/user-attachments/assets/b9196b88-0ba8-4d34-bfed-204c634de781)
+![6_1](./images/6_1.JPG)
 
 <br>
 
-![6_1)](https://github.com/user-attachments/assets/f8c774c9-b6df-45b6-a9f4-97c429d7597f)
+![6_2](./images/6_2.png)
 
 <br>
 
-![6_2)](https://github.com/user-attachments/assets/c3fbe968-e6cc-4b8f-8f1a-55e2755e3092)
+![6_3](./images/6_3.png)
 
 <br>
 
-![6_3)](https://github.com/user-attachments/assets/4dda5cbb-a892-4145-ba90-183257f82376)
+![6_4](./images/6_4.png)
 
 <br>
 
-![6_4)](https://github.com/user-attachments/assets/e35b4301-2ff7-4568-82f5-4cd9d4daaaf4)
+![6_5](./images/6_5.JPG)
 
 <br>
 
