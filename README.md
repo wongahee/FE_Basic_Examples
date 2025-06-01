@@ -11,13 +11,15 @@
 
 ## 🛠 기술 스택
 
-Frontend: HTML5, CSS3, JavaScript (ES6)
+### Frontend
+- HTML5, CSS3, JavaScript (ES6)
 
-UI Framework: Bootstrap 4.6.0
+### UI Framework
+- Bootstrap 4.6.0
 
 <br>
 
-## 🎯 구현 프로젝트 목록
+## 🎯 프로젝트 목록
 | No | Project | Path | Description |
 |------|--------------------|-----------|------|
 | 1 | 🎵 Accordion FAQ Menu | [🔗 보기](./1_faqPage_accordion) | Practice on Accordion UI |
@@ -33,9 +35,9 @@ UI Framework: Bootstrap 4.6.0
 
 ✅ UI 인터랙션 기능
 
-- 클릭으로 FAQ 내용 토글
-- 부드러운 CSS 애니메이션
 - 전체 아코디언 바 닫기 버튼 생성
+- 클릭으로 FAQ 내용 토글
+- hover, click 시 부드러운 CSS 애니메이션 적용
 - NodeList 객체와 반복문 활용
 
 <br>
@@ -61,7 +63,8 @@ UI Framework: Bootstrap 4.6.0
 
 <br>
 
-![2_3)](https://github.com/user-attachments/assets/288133a4-58ee-46ae-ad0e-bad4adf1bd2e)
+![2_3)](https://github.com/user-attachments/assets/0416e26f-f88b-427b-9a6b-2536bad674a2)
+
 
 <br>
 
@@ -71,7 +74,6 @@ UI Framework: Bootstrap 4.6.0
 
 - 저장된 모든 데이터 테이블 형태로 출력
 - Key-Value 쌍 동적 렌더링
-- jQuery와 Vanilla JS 혼합 사용
 - 배열 데이터 처리 및 반복문 활용
 
 <br>
@@ -80,7 +82,8 @@ UI Framework: Bootstrap 4.6.0
 
 <br>
 
-![3_2)](https://github.com/user-attachments/assets/3713c1a2-7f78-40f2-a5b7-29c39c1b72a0)
+![3_2)](https://github.com/user-attachments/assets/93b9687a-9a0d-4da7-b753-fa13fb1f061b)
+
 
 <br>
 
