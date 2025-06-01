@@ -23,8 +23,8 @@
 | No | Project | Path | Description |
 |------|--------------------|-----------|------|
 | 1 | 🎵 Accordion FAQ Menu | [🔗 보기](./1_faqPage_accordion) | Practice on Accordion UI |
-| 2 | 💾 LocalStorage Basic Operations | [🔗 보기](./2_localStorage) | Practice on Local Storage |
-| 3 | 📊 LocalStorage Data Visualization | [🔗 보기](./2-2_localStorage_ctable) | Practice on  |
+| 2 | 💾 LocalStorage Basic Operations | [🔗 보기](./2_localStorage) | Practice on Local Storage : Save, Load, Delete |
+| 3 | 📊 LocalStorage Data Visualization | [🔗 보기](./2-2_localStorage_ctable) | Practice on LocalStorage Table Viewer |
 | 4 | 🔧 Dynamic Table Generation | [🔗 보기](./2-3_localStorage_createRowColumn) | Practice on Create column Local Storage |
 | 5 | 🍪 Cookie Management System | [🔗 보기](./3-1_cookieControl) | Practice on Cookie Management |
 | 6 | 🍪 Advanced Cookie System | [🔗 보기](./3-2_cookieControl_allDel) | Practice on Advanced Cookie Management |
